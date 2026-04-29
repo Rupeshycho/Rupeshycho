@@ -1,8 +1,48 @@
-<h1>Bio</h1>
-<h2>Rupesh Yadav </h2>
-<h2>softwarica College of IT and E-commerce</h2>
-<h2>BSc.(hons) Computer Science with Artificial Intelligence</h2>
-### 🧰 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+# 👋 Hi, I'm Rupesh Yadav
+
+💻 Computer Science student (AI specialization)  
+🏫 Softwarica College  
+🌏 Based in Nepal 🇳🇵  
+🚀 Passionate about Web Dev, Flutter & Java  
+
+---
+
+## 🧠 About Me
+- 🔭 Currently working on: Conexus Project  
+- 🌱 Learning: Java, Flutter, Data Structures  
+- 💡 Interested in: AI, Web Development, Linux  
+- 🎯 Goal: Become a Full Stack + AI Developer  
+
+---
+
+## ⚒️ Skills
+
+### Programming Languages
+- Java ☕
+- Dart (Flutter)
+- JavaScript
+- HTML, CSS
+
+### Tools & Tech
+- Git & GitHub
+- Android Studio
+- VS Code
+- Linux basics
+
+---
+
+## 🚀 Projects
+- 🔗 Conexus – Communication & Collaboration App  
+- 🔗 Portfolio Website (HTML/CSS/JS)  
+
+---
+
+## 📫 Contact Me
+- 📱 WhatsApp: https://wa.me/9779819961413  
+- 📧 Email: your-email@gmail.com  
+- 🌐 GitHub: https://github.com/Rupeshycho  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupeshycho&show_icons=true&theme=tokyonight)
