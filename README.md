@@ -1,10 +1,14 @@
 # 👋 Hi, I'm Rupesh Yadav
 
+<div>
+    <pre style="font-weight: bold;">
 💻 Computer Science student (AI specialization)  
 🏫 Softwarica College  
 🌏 Based in Nepal 🇳🇵  
-🚀 Passionate about Web Dev, Flutter & Java  
+🚀 Passionate about AI/ML, Website Dev, APP dev with Flutter & Java  
 
+    </pre>
+</div>
 ---
 
 ## 🧠 About Me
