@@ -39,8 +39,12 @@
 ---
 
 ## 🚀 Projects
-- 🔗 Conexus – Communication & Collaboration App  
-- 🔗 Portfolio Website (HTML/CSS/JS)  
+
+- 🔗 [Conexus – Communication & Collaboration App](https://github.com/Rupeshycho/conexus)  
+  A feature-rich social media app built with Flutter & Firebase. Includes real-time feed, media uploads, video/voice calls (Agora), and more.
+
+- 🔗 [Portfolio Website (HTML/CSS/JS)](https://github.com/Rupeshycho/PortfolioWeb)  
+  A personal portfolio website showcasing skills, projects, and experience built with pure HTML, CSS, and JavaScript.
 
 ---
 
