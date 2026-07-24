@@ -26,12 +26,19 @@
 
 ### Programming Languages
 - Java ☕
+- Python
+- php
 - Dart (Flutter)
 - JavaScript
 - HTML, CSS
 
 ### Tools & Tech
 - Git & GitHub
+- Gemini CLI
+- Antigravity
+- Stitch
+- Figma
+- Canva
 - Android Studio
 - VS Code
 - Linux basics
@@ -45,6 +52,9 @@
 
 - 🔗 [Portfolio Website (HTML/CSS/JS)](https://github.com/Rupeshycho/PortfolioWeb)  
   A personal portfolio website showcasing skills, projects, and experience built with pure HTML, CSS, and JavaScript.
+
+- 🔗 [ShivNandanTraders (HTML, CSS, JS)](https://shivnandantraders.netlify.app/)
+   A Project for client which is static with SEO .
 
 ---
 
