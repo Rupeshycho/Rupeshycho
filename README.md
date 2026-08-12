@@ -60,8 +60,8 @@
 
 ## 📫 Contact Me
 - 📱 WhatsApp: https://wa.me/9779819961413  
-- 📧 Email: your-email@gmail.com  
-- 🌐 GitHub: https://github.com/Rupeshycho  
+- 📧 Email: crrupesh0@gmail.com
+- 🌐 GitHub: https://github.com/Rupeshycho
 
 ---
 
