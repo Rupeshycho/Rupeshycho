@@ -4,6 +4,7 @@
         background-color:red;
     }
 </style>
+
 <div style="font-weight: bold;">
     
 💻 Computer Science student (AI specialization)  
