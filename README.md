@@ -70,4 +70,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rupeshycho)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Rupeshycho) ![Followers](https://img.shields.io/github/followers/Rupeshycho?label=Followers)
